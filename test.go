@@ -2,6 +2,7 @@ package demo
 
 import "fmt"
 
-func test() {
+//test
+func Test() {
 	fmt.Print("hello world")
 }
